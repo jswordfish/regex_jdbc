@@ -4,12 +4,9 @@ import java.io.FileInputStream;
 import java.sql.DriverManager;
 import java.sql.Statement;
 
-import org.apache.commons.io.FileUtils;
-
 import com.assignment.regex.PatternFinder;
 import com.assignment.regex.PatternFinderImpl;
-import com.mysql.jdbc.Connection;
-import com.sun.xml.internal.fastinfoset.sax.Properties;
+
 
 public class SaveToDatabaseImpl implements SaveToDatabase{
     
