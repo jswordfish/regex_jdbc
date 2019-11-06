@@ -14,7 +14,7 @@ public class PatternFinderImpl implements PatternFinder{
  */
     public Integer findNoOfOccurrences(String str) throws IOException{
         // TODO Auto-generated method stub
-        String data = FileUtils.readFileToString(new File("../regex.txt"));
+        String data = FileUtils.readFileToString(new File("regex.txt"));
         //start coding
         return 0;
     }
