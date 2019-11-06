@@ -1,4 +1,4 @@
-Total=5
-Failed=4
+Total=3
+Failed=3
 Ignore=0
-ExecTime=162
+ExecTime=5

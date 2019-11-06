@@ -11,7 +11,7 @@ import java.util.Properties;
 
 public class TestUtil {
     
-    public static String problem1testcase1 = "../problem1.properties";
+    public static String problem1testcase1 = "../problem.txt";
     
    
       

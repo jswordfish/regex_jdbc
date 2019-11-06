@@ -9,7 +9,7 @@ import org.apache.commons.io.FileUtils;
 import org.junit.Assert;
 import org.junit.Test;
 
-public class TestPatternFinder {
+public class TestPatternFinder_Functional {
     static Properties properties = null;
     
     static{
